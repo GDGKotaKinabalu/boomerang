@@ -1,17 +1,17 @@
 boomerang.factory('Config', function () {
     return {
         //modify these
-        'name'          : 'GDG Space Coast',
-        'id'            : '103959793061819610212',
+        'name'          : 'GDG Kota Kinabalu',
+        'id'            : '117368911868983524073',
         'google_api'    : 'AIzaSyA9ALjr2iWvhf3Rsz9-bH0cEcDcrdkpuAg',
-        'pwa_id'        : '5915725140705884785', //picasa web album id, must belong to google+ id above
-        'domain'        : 'http://www.gdgspacecoast.org',
+        'pwa_id'        : 'c0v95n2me2i4gq9ioaij0lur8vc', //picasa web album id, must belong to google+ id above
+        'domain'        : 'http://www.gdgkk.info',
         'cover' : {
-            title: 'Google I/O 2014',
-            subtitle: 'Google\'s yearly developer event is being held June 25-26th in San Francisco, CA.',
+            title: 'Google Developer Group Kota Kinabalu',
+            subtitle: 'GDG in the city where the summit, sea, & sunset meet',
             button: {
-                text: 'Find out more',
-                url: 'https://www.google.com/events/io'
+                text: 'REGISTER: DevFest KK 2014',
+                url: 'http://devfest.gdgkk.info'
             }
         }
     };
