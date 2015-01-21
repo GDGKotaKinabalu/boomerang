@@ -10,8 +10,8 @@ boomerang.factory('Config', function () {
             title: 'Google Developer Group Kota Kinabalu',
             subtitle: 'GDG in the city where the summit, sea, & sunset meet',
             button: {
-                text: 'REGISTER: DevFest KK 2014',
-                url: 'http://devfest.gdgkk.info'
+                text: 'REGISTER: Android Study Group',
+                url: 'http://goo.gl/forms/17R3VVtqeN'
             }
         }
     };
