@@ -10,8 +10,8 @@ boomerang.factory('Config', function () {
             title: 'Google Developer Group Kota Kinabalu',
             subtitle: 'GDG in the city where the summit, sea, & sunset meet',
             button: {
-                text: 'REGISTER: Android Study Group',
-                url: 'http://goo.gl/forms/17R3VVtqeN'
+                text: 'Join Our Event FREE',
+                url: 'http://www.eventbrite.com/o/google-developer-group-kota-kinabalu-7866962939'
             }
         }
     };
