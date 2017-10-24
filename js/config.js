@@ -11,7 +11,7 @@ boomerang.factory('Config', function () {
             subtitle: 'GDG in the city where the summit, sea, & sunset meet',
             button: {
                 text: 'Join Our Event FREE',
-                url: 'http://www.eventbrite.com/o/google-developer-group-kota-kinabalu-7866962939'
+                url: 'https://www.meetup.com/preview/GDGKotaKinabalu/events'
             }
         }
     };
