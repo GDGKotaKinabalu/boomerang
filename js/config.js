@@ -11,7 +11,7 @@ boomerang.factory('Config', function () {
             subtitle: 'GDG in the city where the summit, sea, & sunset meet',
             button: {
                 text: 'Join Our Event FREE',
-                url: 'https://www.meetup.com/preview/GDGKotaKinabalu/events'
+                url: 'https://www.meetup.com/GDGKotaKinabalu/events'
             }
         }
     };
